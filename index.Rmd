@@ -17,6 +17,28 @@ output:
       beforeInit: "macro.js"
 ---
 
+```{r meta, echo=FALSE, message=FALSE, warning=FALSE}
+library(metathis)
+meta() %>%
+  meta_general(
+    description = "Supporting college access in low income students",
+    generator = "xaringan and remark.js"
+  ) %>% 
+  meta_name("github-repo" = "scoultersdcoe/cera_5things") %>% 
+  meta_social(
+    title = "Five Things School Districts Can Do to Improve College Access for Low-income Students",
+    url = "https://cera2021fivethings.netlify.app",
+    image = "https://github.com/scoultersdcoe/cera_5things",
+    image_alt = "Title slide for CERA presentation",
+    og_type = "website",
+    og_author = "Shannon Coulter",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@scoulte1"
+  )
+
+#xaringan::inf_mr()
+```
+
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
@@ -42,9 +64,10 @@ xaringanExtra::style_share_again(
 
 name: title slide
 class: inverse, title-slide
-background-image: url(img/cover.jpg)
+background-image: url(img/students.jpg)
 background-size: cover
 
+<br><br><br><br><br><br>
 # `r rmarkdown::metadata$title`
 ### `r rmarkdown::metadata$subtitle`
 
@@ -69,7 +92,7 @@ to support low-income students to access and succeed in college.
 
 
 ---
-name: hello
+name: about-me
 class: inverse, right, bottom
 
 
