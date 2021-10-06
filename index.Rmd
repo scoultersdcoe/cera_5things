@@ -37,6 +37,7 @@ meta() %>%
   )
 
 #xaringan::inf_mr()
+#xaringan_to_pdf()
 ```
 
 ```{r setup, include=FALSE}
@@ -90,7 +91,6 @@ Today I wanted to share with you some of the strategies I developed over the pas
 
 to support low-income students to access and succeed in college.
 
-
 ---
 name: about-me
 class: inverse, right, bottom
@@ -108,6 +108,78 @@ class: inverse, right, bottom
 
 Here is my contact information.
 
+---
+name: space1
+class:  
+background-image: url(img/afghan_school.jpg)
+background-size: cover
+
+
+.footnote[
+####[<span style="color:white">10th grade girl attends school in Afghanistan.</span>](www.gettyimages.com)
+]
+
+???
+---
+name: space2
+class: 
+background-image: url(img/curie_lab.jpg)
+background-size: cover
+
+
+.footnote[
+####[<span style="color:black">Marie Curie in laboratory with husband and colleague</span>](www.gettyimages.com)
+]
+
+???
+---
+name: space3
+class: 
+background-image: url(img/immigration.jpg)
+background-size: cover
+
+
+.footnote[
+####[<span style = "color:white">Families belong together immigration campaign.</span>](www.gettyimages.com)
+]
+
+???
+---
+name: space4
+class: 
+background-image: url(img/classroom.jpg)
+background-size: cover
+
+
+.footnote[
+####[<span style="color:white">Integrated classroom in Anacostia in 1957.</span>](www.gettyimages.com)
+]
+
+???
+---
+name: space5
+class: 
+background-image: url(img/jackie-robinson.jpg)
+background-size: cover
+
+
+.footnote[
+####[<span style="color:black">Jackie Robinson steals home in 1955 World Series</span>](www.gettyimages.com)
+]
+
+???
+---
+name: space5
+class: 
+background-image: url(img/jazz_festival.jpg)
+background-size: cover
+
+
+.footnote[
+####[<span style="color:black">1958 Newport Jazz Festival</span>](www.gettyimages.com)
+]
+
+???
 ---
 name: guide
 class: middle, center
