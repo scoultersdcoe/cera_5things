@@ -125,7 +125,7 @@ knitr::include_graphics("img/easier.png")
 
 .pull-left[
 .middle[
-All the tools and resources from today's presentation are publicly [available](https://www.sdcoe.net/lls/assessment/Documents/Evaluation/MakeItEasier-Report.pdf) from the San Diego County Office of Education Website. 
+All the tools and resources from today's presentation are publicly [available](https://resources.finalsite.net/images/v1639429972/sdcoenet/kmq4ljy195amwtiinc4w/MakeItEasier-Report.pdf) from the San Diego County Office of Education Website. 
 ]]
 
 .pull-right[
@@ -229,7 +229,7 @@ Any student only has a finite capacity for engaging in the college enrollment pr
 name: Solution 1 & 2
 class: middle, center
 
-## [College Enrollment Guide](https://www.sdcoe.net/lls/assessment/Documents/Evaluation/College%20Access-Brochure.pdf)
+## [College Enrollment Guide](https://resources.finalsite.net/images/v1639430060/sdcoenet/t2an1kbx7qrhgpsqgpnh/CollegeAccess-Brochure_1.pdf)
 
 --
 
@@ -356,7 +356,7 @@ Low-income students keep the most pressing information at the forefront of their
 name: Solution 4 
 class: middle, center
 
-## [High School Exit Survey](https://www.sdcoe.net/lls/assessment/Documents/Evaluation/MakeItEasier-DistrictExitSurvey.pdf)
+## [High School Exit Survey](https://resources.finalsite.net/images/v1639430041/sdcoenet/ovz0aj1egqd9a8so01sg/MakeItEasier-DistrictExitSurvey.pdf)
 
 --
 
@@ -371,7 +371,7 @@ knitr::include_graphics("img/survey2.png")
 name: Solution 5 
 class: middle, center
 
-## [College Checklists](https://www.sdcoe.net/lls/assessment/Pages/College-Checklists.aspx)
+## [College Checklists](https://www.sdcoe.net/educators/evaluation/improvement-networks#fs-panel-2947)
 
 --
 
